@@ -18,3 +18,5 @@ print(nombre.count(" * "))
 
 nombre4=nombre.replace("*", " ")
 print(nombre4)
+
+print("lucas")
